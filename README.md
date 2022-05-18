@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emlyn
-- 👀 I’m interested in space and computers
-- 🌱 I also fly planes around sometimes!
+- 🚀 I’m interested in space and computers
+- 🛫 I also fly planes around sometimes!
 - 💞️ Among Us
 - 📫 How to reach me: KranetYT@gmail.com
 
