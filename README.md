@@ -4,9 +4,13 @@
 
 ## Projects I work on
 
+
 Spaceflight R/Place
+
 Spitter Community Events
+
 Various lighting tech stuff
+
 
 <!---
 emlynlj/emlynlj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
