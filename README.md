@@ -5,7 +5,7 @@ I write code when motivation arises. JS/TS and Python mainly.
 ---
 
 Dev, Livestream Producer @ **[RGV Aerial Photography](https://rgvaerial.org)**
-`              (I made that website!)^^`
+`(I made that website!)`
 
 Live Video Lead @ **Interstellar Gateway**
 
