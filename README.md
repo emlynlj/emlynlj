@@ -1,6 +1,7 @@
-## Heya, I’m Emlyn 👋😁
+# Heya, I’m Emlyn 👋😁
 
-I write code when motivation arises. JS/TS and Python mainly. 
+## I write code when motivation arises.
+**JS/TS and Python mainly.** _Currently learning Swift...._
 
 ---
 
@@ -10,8 +11,11 @@ Dev, Livestream Producer @ **[RGV Aerial Photography](https://rgvaerial.org)**
 Live Video Lead @ **Interstellar Gateway**
 
 
+###
 
-Prev: Dev @ **The Gateway Community**
+###
+
+*Prev: `Dev @ The Gateway Community`*
 
 
 Thanks for stopping by 🫡
